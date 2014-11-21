@@ -1,0 +1,46 @@
+#u132
+{
+	border-style: solid;
+	border-color: #159A39;
+	background-color: #FFFFFF;
+	position: fixed;
+	border-width: 0px 0px 3px;
+}
+
+#u135
+{
+	position: fixed;
+}
+
+#u131-4
+{
+	display: block;
+	vertical-align: top;
+	position: fixed;
+}
+
+#u138
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u148-4,#u149-4,#u157-4
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #159A39;
+	position: fixed;
+}
+
+#u134-4
+{
+	line-height: 22px;
+	color: #9A1518;
+	font-size: 18px;
+	text-align: center;
+	position: fixed;
+}
+
